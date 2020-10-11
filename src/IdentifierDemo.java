@@ -17,10 +17,6 @@ public class IdentifierDemo {
         int b2 = 20;
         System.out.println(b2);
 
-        int a =10;
-        int A = 10;
-        System.out.println(a);
-        System.out.println(A);
 
     }
 }
