@@ -25,7 +25,7 @@ public class ConversionDemo {
         System.out.println("-------------------------");
 
         double d1 = 3.14;
-        int a1 = (int)d1;//将double的结果值强制类型转换为整数F
+        int a1 = (int)d1;//将double的结果值强制类型转换为整数
         System.out.println(a1);
       //https://github.com/ZJ-p007/FirstJava.git
     }
