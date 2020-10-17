@@ -14,8 +14,8 @@ public class IdentifierDemo {
         int zhangSanAge = 23;
         System.out.println(zhangSanAge);
 
-        int b4 = 30;
-        System.out.println(b4);
+        int b5 = 100;
+        System.out.println(b5);
 
 
     }
