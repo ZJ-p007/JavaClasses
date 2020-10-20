@@ -8,14 +8,15 @@
       常量：全部大写，单词之间用_隔开
       包名：全部小写
  */
-public class IdentifierDemo {
+public class
+IdentifierDemo {
     public static void main(String[] args) {
-        //定义变量，记录张三得年龄
+        //定义变量，记录张三得年
         int zhangSanAge = 23;
         System.out.println(zhangSanAge);
 
-        int b5 = 100;
-        System.out.println(b5);
+        int b6 = 10;
+        System.out.println(b6);
 
 
     }
