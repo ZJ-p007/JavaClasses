@@ -18,6 +18,5 @@ IdentifierDemo {
         int b6 = 10;
         System.out.println(b6);
 
-
     }
 }
